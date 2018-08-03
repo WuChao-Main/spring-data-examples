@@ -23,7 +23,7 @@ import org.springframework.data.jpa.domain.AbstractPersistable;
 
 /**
  * Sample user class.
- *
+ **********************
  * @author Oliver Gierke
  * @author Thomas Darimont
  */
